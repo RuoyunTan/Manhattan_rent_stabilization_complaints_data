@@ -2,4 +2,4 @@
 
 Here are the two datasets of rent-stabilized buildings in Manhattan and the complaints received about these buildings. 
 
-How I constructed the datasets can be found in this paper: 10.6082/uchicago.3248.
+How I constructed the datasets can be found in this paper: https://knowledge.uchicago.edu/record/3248
